@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c869e6e6-e5ea-4b48-af39-eb675faa151b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1g8aaBSACiy0MoOWdJZ4JxluHqS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bird" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bird" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c869e6e6-e5ea-4b48-af39-eb675faa151b" name="Default Changelist" comment="" />
+      <created>1597498735394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597498735394</updated>
+      <workItem from="1597498736958" duration="87000" />
+      <workItem from="1597504539020" duration="462000" />
+      <workItem from="1597629203602" duration="1096000" />
+      <workItem from="1597634802020" duration="17387000" />
+      <workItem from="1597679908051" duration="16880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1033" y="513" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597498760956">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1033" y="513" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1363@0.23.2560.1363" timestamp="1597498760956" />
+    <state x="124" y="100" width="586" height="737" key="find.popup" timestamp="1597748630531">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="979" y="61" width="586" height="735" key="find.popup/0.23.1680.973@0.23.1680.973" timestamp="1597665427430" />
+    <state x="979" y="61" width="586" height="735" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1597626979466" />
+    <state x="124" y="100" width="586" height="737" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1597748630531" />
+    <state x="987" y="336" width="586" height="735" key="find.popup/0.23.2560.1363@0.23.2560.1363" timestamp="1597504553625" />
+  </component>
+</project>
